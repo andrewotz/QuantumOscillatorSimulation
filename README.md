@@ -1,4 +1,3 @@
-Overview
 This project provides an interactive visualization of the Quantum Harmonic Oscillator (QHO) — a foundational concept in quantum mechanics describing a particle bound in a harmonic potential, like a mass on a spring at the quantum scale.
 Using Python, NumPy, Matplotlib, and interactive sliders (ipywidgets), this simulation lets you explore:
 
